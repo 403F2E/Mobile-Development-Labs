@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- 403f2e has defined the base dark application theme -->
+    <style name="Base.Theme.Securestoragelab14" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+</resources>

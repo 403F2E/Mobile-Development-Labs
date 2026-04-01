@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 403f2e has defined the color black -->
+    <color name="black">#FF000000</color>
+    <!-- 403f2e has defined the color white -->
+    <color name="white">#FFFFFFFF</color>
+</resources>
