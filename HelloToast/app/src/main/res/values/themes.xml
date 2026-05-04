@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!-- 403f2e has created -->
+<style name="Base.Theme.HelloToast" parent="Theme.Material3.DayNight.NoActionBar">
+</style>
+<style name="Theme.HelloToast" parent="Base.Theme.HelloToast" />
+</resources>
